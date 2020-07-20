@@ -1,2 +1,8 @@
-#wrapper {background-color: aqua;}
-#wrapper img {margin: 10px;}
+#wrapper {background-color: white; padding: 20px; margin: 20px;}
+#wrapper img {margin: 10px; padding: 10px;}
+#wrapper p {margin: 10px; padding: 10px;}
+
+/* #wrapper2 {background-color: white; padding: 20px; margin: 20px; justify-content: space-between;}
+#wrapper2 img {margin: 10px; padding: 10px;} */
+
+#wrapper3 {background-color: white; padding: 20px; margin: 20px;}
