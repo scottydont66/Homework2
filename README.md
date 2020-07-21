@@ -1,3 +1,22 @@
+Homework 2 
+
+I began by creating my three html docs.
+
+On the index page, called 'About Me', I linked Bootstrap and a style.css doc.
+
+Created the nav bar and linked the pages together. Then I duped the nav to all three pages.
+
+Laid out the basic elements, using placeholders where needed. Then, I set up the basic feel of the page (backgrounds, header, footer, etc.)
+
+Tested pages for responsiveness and made adjustments where needed.
+
+Replaced placeholders with actual media and linked my selected Google font to the head.
+
+Made final adjustments to responsive layout once media was in place.
+
+
+
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
