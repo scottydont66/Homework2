@@ -1,8 +1,23 @@
+#name {text-align: center;
+    color: white;
+    background-color: darkslategray;
+    height: 40px;
+    width: 30%;
+    margin: 20px;}
+
 #wrapper {background-color: white; padding: 20px; margin: 20px;}
 #wrapper img {margin: 10px; padding: 10px;}
 #wrapper p {margin: 10px; padding: 10px;}
 
 #wrapper2 {background-color: white; padding: 20px; margin: 20px;}
+.img {width: 75%;}
+.img-text {
+    width:75%;
+    height:60px;
+    background: darkslategray;
+    text-align: center;
+    font-size: large;
+    color: white;}
 
 #wrapper3 {background-color: white; padding: 20px; margin: 20px;}
 
